@@ -1,0 +1,1 @@
+This project is based on making an ice cream. Ice cream is a sweetened frozen food typically eaten as a snack or dessert. It can be made from dairy milk or cream and is flavoured with a sweetener, such as sugar, cocoa and vanilla. It can also be made by whisking a flavored cream base and liquid nitrogen together.
